@@ -1,2 +1,2 @@
-# time_series_I
-Time Series Analysis with Airline Passengers
+This is a time series analysis with airline passengers project.  
+This data set is taken from the Kaggle
